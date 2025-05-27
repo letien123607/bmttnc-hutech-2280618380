@@ -53,8 +53,8 @@ class PlayFairCipher:
                 decrypted_text += matrix[row1][(col1 - 1) % 5] + matrix[row2][(col2 - 1) % 5]
             elif col1 == col2:
                 decrypted_text += matrix[(row1 - 1) % 5][col1] + matrix[(row2 - 1) % 5][col2]
-        else:
-            decrypted_text += matrix[row1][col2] + matrix[row2][col1]
+            else:
+                decrypted_text += matrix[row1][col2] + matrix[row2][col1]
         
         banro = ""
         # Loại bỏ ký tự 'X' nếu nó là ký tự cuối cùng và là ký tự được thêm vào
