@@ -5,6 +5,7 @@ from cipher.railfence import RailFenceCipher
 from cipher.playfair import PlayFairCipher
 
 
+
 app = Flask(__name__)  
 
 # CAESAR CIPHER ALGORITHM

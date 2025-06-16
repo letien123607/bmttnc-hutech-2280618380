@@ -94,8 +94,8 @@ class Ui_MainWindow(object):
         self.label_2.setText(_translate("MainWindow", "Key"))
         self.label_3.setText(_translate("MainWindow", "CipherText"))
         self.label_4.setText(_translate("MainWindow", "CAESAR CIPHER"))
-        self.label_5.setText(_translate("MainWindow", "ĐẶNG QUỐC TUẤN"))
-        self.label_6.setText(_translate("MainWindow", "2280603531"))
+        self.label_5.setText(_translate("MainWindow", "Le Cong Tien"))
+        self.label_6.setText(_translate("MainWindow", "2280618380"))
         self.btn_encrypt.setText(_translate("MainWindow", "Encrypt"))
         self.btn_decrypt.setText(_translate("MainWindow", "Decrypt"))
 

@@ -90,11 +90,11 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.label_6.setText(_translate("MainWindow", "2280603531"))
+        self.label_6.setText(_translate("MainWindow", "2280618380"))
         self.label.setText(_translate("MainWindow", "PlainText"))
         self.label_3.setText(_translate("MainWindow", "CipherText"))
         self.btn_decrypt.setText(_translate("MainWindow", "Decrypt"))
-        self.label_5.setText(_translate("MainWindow", "ĐẶNG QUỐC TUẤN"))
+        self.label_5.setText(_translate("MainWindow", "Le Cong Tien"))
         self.label_4.setText(_translate("MainWindow", "VIGENERE CIPHER"))
         self.btn_encrypt.setText(_translate("MainWindow", "Encrypt"))
         self.label_2.setText(_translate("MainWindow", "Key"))
